@@ -7,20 +7,19 @@
   </a>
 </p>
 
-
-- 👋 Hi, I’m **@mdarmanfakir**
+- 👋 Hi, I’m **[@mdarmanfakir](https://github.com/mdarmanfakir)**
 - 💻 I’m currently working on **React.js, Next.js, TypeScript and Tailwind** for frontend development.
 - 🌱 I’m currently learning **Next.js, TypeScript and Framer Motion.**
 - 💬 Ask me about **Front-End (React, Next, JavaScript, Tailwind).**
 - 🌐 Explore My Portfolio **[Arman Fakir](https://arman-fakir.netlify.app)** and My **Resume**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdarmanfakir72)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/arman-fakir/)**
 - 📫 Feel free to reach me out **[Email](mailto:mdarmanfakir72@gmail.com)**
 
 <h3 align="left">FOLLOW ME ON SOCIALS:</h3>
 
 ---
 <p align="left">
-<a href="https://www.linkedin.com/in/mdarmanfakir72" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a> <a href="https://facebook.com/mdarmanfakir72" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" /></a> <a href="https://arman-fakir.netlify.app" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" /></a> <a href="mailto:mdarmanfakir72@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/arman-fakir/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a> <a href="https://www.facebook.com/armanfakirbd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" /></a> <a href="https://arman-fakir.netlify.app" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" /></a> <a href="mailto:mdarmanfakir72@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">🛠️ TECHNOLOGY STACK:</h3>
@@ -31,14 +30,14 @@
 <img src="https://skillicons.dev/icons?i=html" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=css" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=js" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" />
 </p>
 
-<p align="left"><b>CSS Frameworks & Libraries:</b></p>
+<p align="left"><b>CSS Frameworks:</b></p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" />
 </p>
 
 <p align="left"><b>JavaScript Frameworks & Libraries:</b></p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" />
 </p>
 
 <p align="left"><b>Deployment Platform:</b></p>
@@ -46,14 +45,14 @@
 <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" />
 </p>
 
-<h3 align="left">🎨 Design & Graphics:</h3>
+<h3 align="left">🎨 Design:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ps" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
 </p>
 
-<h3 align="left">🧰 Tools & Technologies:</h3>
+<h3 align="left">🧰 Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=windows" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=windows" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
 </p>
 
 <h3 align="left">📊 GITHUB STATISTICS & ANALYSIS:</h3>
